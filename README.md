@@ -43,10 +43,11 @@ My journey in Bachelor of Computer Applications & IT Service Desk has led me to 
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<div></div>Cybersecurity Certification
+<div></div><a href="https://coursera.org/share/145ea5d45f728012237fcd588bfd15f5" target="_blank">
+  <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+</a>
 
- [Google Cybersecurity Professional Certificate](https://coursera.org/share/145ea5d45f728012237fcd588bfd15f5).
+
 
 
 
