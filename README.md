@@ -5,8 +5,7 @@ As a graduate passionate about technology, I am committed to leveraging my skill
 
 ## Objective
 
-My journey as a Bachelor of Computer Applications and an IT Service Desk Analyst has fueled my passion for cybersecurity. I am excited about the opportunity to transition into this dynamic field and am eager to contribute my skills as a Security Operations Center (SOC) Analyst.
-
+With a Bachelor of Computer Applications and experience as an IT Service Desk Analyst, I have cultivated a strong passion for cybersecurity. I am eager to transition into this field and join a Security Operations Center (SOC) as an Analyst to help enhance security measures.
 ## SKILLS
 
 | Skills                                               |
