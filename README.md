@@ -1,12 +1,11 @@
 # Hello, I'm Aman Singh
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-I am a graduate with a profound interest in technology and a dedication to solving problems.
+As a graduate passionate about technology, I am committed to leveraging my skills to effectively tackle challenges and drive solutions.
 
 ## Objective
 
-My journey as a Bachelor of Computer Applications & IT Service Desk analyst has led me to develop a passion for cybersecurity. I am eager to transition into this field, specifically to join a Security Operations Center (SOC) Analyst.
+My journey as a Bachelor of Computer Applications and an IT Service Desk Analyst has fueled my passion for cybersecurity. I am excited about the opportunity to transition into this dynamic field and am eager to contribute my skills as a Security Operations Center (SOC) Analyst.
 
 ## SKILLS
 
@@ -64,6 +63,6 @@ My journey as a Bachelor of Computer Applications & IT Service Desk analyst has 
 
 </div>
 
-## Projects/Activities
+## PROJECTS/ACTIVITIES
 - Detection Lab
 - SOC Automation Project
