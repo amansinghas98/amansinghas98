@@ -47,7 +47,7 @@ My journey as a Bachelor of Computer Applications & IT Service Desk analyst has 
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-### LANGUAGE
+## LANGUAGE
 <div>
 <img src="https://img.shields.io/badge/-SQL-00758F?&style=for-the-badge&logo=MySQL&logoColor=white" />
 <img src="https://img.shields.io/badge/-Python-306998?&style=for-the-badge&logo=Python&logoColor=white" />
