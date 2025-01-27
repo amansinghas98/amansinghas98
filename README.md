@@ -6,9 +6,9 @@ I am a graduate with a profound interest in technology and a dedication to solvi
 
 ## Objective
 
-My journey as a Bachelor of Computer Applications & IT Service Desk analyst has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) Analyst.
+My journey as a Bachelor of Computer Applications & IT Service Desk analyst has led me to develop a passion for cybersecurity. I am eager to transition into this field, specifically to join a Security Operations Center (SOC) Analyst.
 
-## Skills
+## SKILLS
 
 | Skills                                               |
 |-----------------------------------------------|
@@ -25,7 +25,7 @@ My journey as a Bachelor of Computer Applications & IT Service Desk analyst has 
 
 
 
-## Tools
+## TOOLS
 
 ### Network
 <div>
@@ -55,7 +55,8 @@ My journey as a Bachelor of Computer Applications & IT Service Desk analyst has 
 
 </div>
 
-## Certifications
+## CERTIFICATIONS
+### Click to verify 
 <div>
 <div></div><a href="https://coursera.org/share/145ea5d45f728012237fcd588bfd15f5" target="_blank">
   <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
