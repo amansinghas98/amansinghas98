@@ -63,5 +63,9 @@ With a Bachelor of Computer Applications and experience as an IT Service Desk An
 </div>
 
 ## PROJECTS/ACTIVITIES
-- Detection Lab
-- SOC Automation Project
+- Vulnerability Assessment Report
+- Identify the attack vector of a USB drive
+- Apply filters to SQL queries
+- Incident handler's journal
+- Respond to a phishing Email incident
+- File permissions in Linux
