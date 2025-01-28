@@ -65,7 +65,6 @@ With a Bachelor of Computer Applications and experience as an IT Service Desk An
 ## PROJECTS/ACTIVITIES
 - <a href="https://docs.google.com/document/d/1nVtC8Mi9SmZ6UK6d1Zg8VD4MwoqLWui4voyzTi3HPCI/edit?usp=sharing" target="_blank">Vulnerability Assessment Report</a>
 
-- Identify the attack vector of a USB drive
 - Apply filters to SQL queries
 - Incident handler's journal
 - Respond to a phishing Email incident
