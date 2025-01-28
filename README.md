@@ -69,3 +69,4 @@ With a Bachelor of Computer Applications and experience as an IT Service Desk An
 - Incident handler's journal
 - Respond to a phishing Email incident
 - File permissions in Linux
+- Controls and compliance report & checklist 
