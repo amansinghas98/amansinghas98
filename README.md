@@ -27,13 +27,16 @@ With a Bachelor of Computer Applications and experience as an IT Service Desk An
 
 ### Network
 <div>
+    <a href="https://drive.google.com/drive/folders/178lc7AJGaOU19DouY9zjIQjUl5QIqw3y?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <a href="https://drive.google.com/drive/folders/1B8hR50a6ySbeIt9M488fd4ePe8ehAu9x?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     
 </div>
 
 ### Endpoint
 <div>
+    <a href="https://drive.google.com/drive/folders/1PcsHf94bKYGbHCJoiqMWvzNOmzLiMwra?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/-Wazuh-4B275F?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 
 </div>
