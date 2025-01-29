@@ -64,9 +64,7 @@ With a Bachelor of Computer Applications and experience as an IT Service Desk An
 
 ## PROJECTS/ACTIVITIES
 - <a href="https://docs.google.com/document/d/1nVtC8Mi9SmZ6UK6d1Zg8VD4MwoqLWui4voyzTi3HPCI/edit?usp=sharing" target="_blank">Vulnerability Assessment Report</a>
-
-- Apply filters to SQL queries
-- Incident handler's journal
-- Respond to a phishing Email incident
-- File permissions in Linux
-- Controls and compliance report & checklist 
+- <a href="https://docs.google.com/document/d/1Q9No_S2LAN9XCDTb2IXojGrRUDZ5R-8KrZMJIceKac0/edit?usp=sharing" target="_blank">Incident handler's journal</a>
+- <a href="https://docs.google.com/document/d/1y_ro5v_DO1En0CB9M6ckofYVc14Lt5yGeL6yDYBdKf4/edit?usp=sharing" target="_blank">Respond to a phishing Email incident</a>
+- <a href="https://docs.google.com/document/d/1590eg0cLiOb7DKAa5tliReTRa453mCyIzy1nL8ldwz0/edit?usp=sharing" target="_blank">Controls and compliance report & checklist </a>
+ 
