@@ -40,7 +40,9 @@ With a Bachelor of Computer Applications and experience as an IT Service Desk An
 
 ### SIEM
 <div>
+    <a href="https://drive.google.com/drive/folders/1PcsHf94bKYGbHCJoiqMWvzNOmzLiMwra?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/-Wazuh-4B275F?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+    <a href="https://drive.google.com/drive/folders/1qmVPPxkUMCBlH4ubhCjKW8SSEGJ0W31b?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <a href="https://drive.google.com/drive/folders/1pWcDTf1IQaPKzQ2eIm6H4UlA2c_8hWJ1?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
