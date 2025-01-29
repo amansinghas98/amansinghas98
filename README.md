@@ -68,6 +68,4 @@ With a Bachelor of Computer Applications and experience as an IT Service Desk An
 - <a href="https://docs.google.com/document/d/1y_ro5v_DO1En0CB9M6ckofYVc14Lt5yGeL6yDYBdKf4/edit?usp=sharing" target="_blank">Respond to a phishing Email incident</a>
 - <a href="https://docs.google.com/document/d/1590eg0cLiOb7DKAa5tliReTRa453mCyIzy1nL8ldwz0/edit?usp=sharing" target="_blank">Controls and compliance report & checklist </a>
 
-<a href="https://imgur.com/K3GIgfG" target="_blank">
-        <img src="https://i.imgur.com/K3GIgfG.jpg" alt="Click Image" width="300">
  
