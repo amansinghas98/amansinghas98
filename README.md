@@ -26,6 +26,7 @@ With a Bachelor of Computer Applications and experience as an IT Service Desk An
 ## TOOLS
 
 ### Network
+###### Click For Details
 <div>
     <a href="https://drive.google.com/drive/folders/178lc7AJGaOU19DouY9zjIQjUl5QIqw3y?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -35,6 +36,7 @@ With a Bachelor of Computer Applications and experience as an IT Service Desk An
 </div>
 
 ### Endpoint
+###### Click For Details
 <div>
     <a href="https://drive.google.com/drive/folders/1PcsHf94bKYGbHCJoiqMWvzNOmzLiMwra?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/-Wazuh-4B275F?&style=for-the-badge&logo=Wazuh&logoColor=white" />
@@ -42,6 +44,7 @@ With a Bachelor of Computer Applications and experience as an IT Service Desk An
 </div>
 
 ### SIEM
+###### Click For Details
 <div>
     <a href="https://drive.google.com/drive/folders/1PcsHf94bKYGbHCJoiqMWvzNOmzLiMwra?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/-Wazuh-4B275F?&style=for-the-badge&logo=Wazuh&logoColor=white" />
@@ -62,7 +65,7 @@ With a Bachelor of Computer Applications and experience as an IT Service Desk An
 </div>
 
 ## CERTIFICATIONS
-### Click to verify 
+###### Click to verify 
 <div>
 <div></div><a href="https://coursera.org/share/145ea5d45f728012237fcd588bfd15f5" target="_blank">
   <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
