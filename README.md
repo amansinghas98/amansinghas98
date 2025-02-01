@@ -58,9 +58,12 @@ With a Bachelor of Computer Applications and experience as an IT Service Desk An
 
 ## LANGUAGE
 <div>
+<a href="https://drive.google.com/file/d/1d9lzJ9eAHohHjkk7Agj1DeFXkAG_aems/view?usp=sharing" target="_blank">
 <img src="https://img.shields.io/badge/-SQL-00758F?&style=for-the-badge&logo=MySQL&logoColor=white" />
-<img src="https://img.shields.io/badge/-Python-306998?&style=for-the-badge&logo=Python&logoColor=white" />
+<a href="https://drive.google.com/file/d/17iVG5cYw_y4TbJpJPrUlOoViMcOr1PMh/view?usp=sharing" target="_blank">
 <img src="https://img.shields.io/badge/-Linux-32CD32?&style=for-the-badge&logo=Linux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-306998?&style=for-the-badge&logo=Python&logoColor=white" />
+
 
 </div>
 
