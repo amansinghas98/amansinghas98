@@ -5,7 +5,7 @@ As a graduate passionate about technology, I am committed to leveraging my skill
 
 ## Objective
 
-With a Bachelor of Computer Applications and experience as an IT Service Desk Analyst, I have cultivated a strong passion for cybersecurity. I am eager to transition into this field and join a Security Operations Center (SOC) as an Analyst to help enhance security measures.
+Skilled graduate with years of experience at a top IT firm as an IT service desk analyst with hands-on expertise in popular <b>cybersecurity tools</b> and <b>Certified Google Cybersecurity Professional</b> seeking a Cybersecurity Analyst position.
 ## SKILLS
 
 | Skills                                               |
